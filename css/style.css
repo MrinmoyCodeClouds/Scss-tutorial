@@ -278,12 +278,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   font-weight: 500;
   transition: all 0.5s ease-in-out;
-  border: 1px solid red;
 }
 .white-btn:hover {
   background: #c7d9d5;
   color: #6c9894;
-  text-decoration: underline;
 }
 
 /*========INDEX PAGE END======*//*# sourceMappingURL=style.css.map */
